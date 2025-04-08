@@ -113,7 +113,7 @@ Backtesting
 
 Evaluate the performance of a trained model using historical data.
 
-Bash
+```bash
 # Replace 'path/to/your/trained_model' with the actual path
 python scripts/backtest.py --model_path path/to/your/trained_model --config config/default.yaml
 Project Structure
@@ -160,6 +160,7 @@ finrl_contest/
 ├── README.md               # This file
 ├── LICENSE                 # Project license file
 └── main.py                 # Main entry point for the application (optional)
+```
 
 ## Dependencies
 Python 3.8+
