@@ -83,6 +83,7 @@ source venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
+```
 
 ## Usage
 Configuration
@@ -160,7 +161,7 @@ finrl_contest/
 ├── LICENSE                 # Project license file
 └── main.py                 # Main entry point for the application (optional)
 
-Dependencies
+## Dependencies
 Python 3.8+
 PyTorch
 FinRL Library (finrl)
@@ -175,14 +176,14 @@ Other dependencies as listed in requirements.txt
 Contributing
 We welcome contributions! Please follow these steps:
 
-Fork the repository.
+## Fork the repository.
 Create your feature branch (git checkout -b feature/YourAmazingFeature).
 Commit your changes (git commit -m 'Add some AmazingFeature').
 Push to the branch (git push origin feature/YourAmazingFeature).
 Open a Pull Request.
 Please ensure your code adheres to the project's coding standards and includes appropriate tests.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
