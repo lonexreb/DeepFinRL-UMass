@@ -161,7 +161,7 @@ finrl_contest/
 ├── LICENSE                 # Project license file
 └── main.py                 # Main entry point for the application (optional)
 ```
-
+```bash
 ## Dependencies
 Python 3.8+
 PyTorch
@@ -174,24 +174,26 @@ Pandas, NumPy
 TA-Lib (talib-binary) - For technical indicators
 Matplotlib, Seaborn - For visualization
 Other dependencies as listed in requirements.txt
-Contributing
-We welcome contributions! Please follow these steps:
+```
+
+## Contributing
+- We welcome contributions! Please follow these steps:
 
 ## Fork the repository.
-Create your feature branch (git checkout -b feature/YourAmazingFeature).
-Commit your changes (git commit -m 'Add some AmazingFeature').
-Push to the branch (git push origin feature/YourAmazingFeature).
-Open a Pull Request.
-Please ensure your code adheres to the project's coding standards and includes appropriate tests.
+- Create your feature branch (git checkout -b feature/YourAmazingFeature).
+- Commit your changes (git commit -m 'Add some AmazingFeature').
+- Push to the branch (git push origin feature/YourAmazingFeature).
+- Open a Pull Request.
+- Please ensure your code adheres to the project's coding standards and includes appropriate tests.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
-This project is developed as part of the FinRL Contest 2025.
-Built upon the FinRL framework.
-Inspired by concepts from the FinRobot open-source AI agent platform.
-Utilizes the CrewAI framework for agent orchestration.
+- This project is developed as part of the FinRL Contest 2025.
+- Built upon the FinRL framework.
+- Inspired by concepts from the FinRobot open-source AI agent platform.
+- Utilizes the CrewAI framework for agent orchestration.
 Contact
-(Optional: Add contact information or link to project issues page)
-Project Link: https://github.com/your-username/finrl-contest (Replace with your actual repository URL)
+- (Optional: Add contact information or link to project issues page)
+- Project Link: https://github.com/your-username/finrl-contest (Replace with your actual repository URL)
