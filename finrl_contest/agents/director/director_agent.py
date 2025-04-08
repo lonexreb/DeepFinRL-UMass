@@ -1,9 +1,9 @@
 # agents/director/director_agent.py
-from agents.specialized.fundamental_agent import FundamentalAgent
-from agents.specialized.technical_agent import TechnicalAgent
-from agents.specialized.contrarian_agent import ContrarianAgent
-from agents.portfolio.portfolio_manager_agent import PortfolioManagerAgent
-from agents.verification.verification_agent import VerificationAgent
+from agents.specialized.fundamental_analyst import FundamentalAgent
+from agents.specialized.technical_analyst import TechnicalAgent
+from agents.specialized.contrarian_analyst import ContrarianAgent
+from agents.portfolio.portfolio_manager import PortfolioManagerAgent
+from agents.interfaces.verification_agent import VerificationAgent
 
 class DirectorAgent:
     def __init__(self, config):
