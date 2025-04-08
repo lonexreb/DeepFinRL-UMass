@@ -1,0 +1,11 @@
+# config/default.yaml
+fundamental:
+  threshold: 0.5
+technical:
+  window_size: 14
+contrarian:
+  sensitivity: 1.0
+portfolio:
+  risk_tolerance: 0.7
+verification:
+  method: "dummy"
